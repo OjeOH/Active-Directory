@@ -1,6 +1,6 @@
-# 05 — Active Directory Backup & Authoritative Restore
+# Active Directory Backup & Authoritative Restore
 
-> *Lab 3 (Part B) · INFO 8461 · Windows Infrastructure and Security*
+> * Windows Infrastructure and Security*
 
 ---
 
