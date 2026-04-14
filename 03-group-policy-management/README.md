@@ -1,6 +1,6 @@
-# 03 — Group Policy Management (GPO)
+# Group Policy Management (GPO)
 
-> *Lab 2 (Part B) · INFO 8461 · Windows Infrastructure and Security*
+> * Windows Infrastructure and Security*
 
 ---
 
