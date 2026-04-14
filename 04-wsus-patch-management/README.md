@@ -1,6 +1,6 @@
-# 04 — WSUS: Centralized Patch Management
+# WSUS: Centralized Patch Management
 
-> *Lab 3 (Part A) · INFO 8461 · Windows Infrastructure and Security*
+> * Windows Infrastructure and Security*
 
 ---
 
