@@ -1,22 +1,22 @@
-# 🖥️ Windows Infrastructure & Active Directory Portfolio
+# 🖥️ Windows Infrastructure & Active Directory Project
 
 > **Oje Opeoluwa Hezekiah** — Windows Systems Engineer | Active Directory | Security Hardening | Enterprise Infrastructure
 >
-> * Windows Infrastructure and Security *
+> * Windows Infrastructure and Security*
 
 ---
 
 ## 👋 About This Portfolio
 
-This repository documents a hands-on journey through building, securing, and administering enterprise-grade Windows infrastructure from the ground up. Every lab, every screenshot, and every configuration you see here was performed live on virtual machines — no simulation, no theory-only exercises.
+This repository documents a hands-on journey through building, securing, and administering enterprise-grade Windows infrastructure from the ground up. Every lab, every screenshot, and every configuration you see here was performed live on virtual machines, no simulation, no theory-only exercises.
 
 From provisioning a bare Windows Server 2019 VM all the way through WSUS patch management, disaster recovery, and Microsoft Security Compliance Toolkit hardening, this portfolio represents 7 interconnected projects that mirror real-world IT engineering responsibilities.
 
-If you're an employer, hiring manager, or fellow engineer — **welcome**. This is what I can do.
+If you're an employer, hiring manager, or fellow engineer — **welcome**. This is what I do.
 
 ---
 
-## 🗺️ Portfolio Map
+## 🗺️ Project Map
 
 | # | Module | Core Skills Demonstrated |
 |---|--------|--------------------------|
@@ -73,16 +73,16 @@ All labs were built on an isolated virtual network (`10.172.136.0/24`) in VMware
 
 ## 📊 Skills Matrix
 
-| Skill | Level | Evidence |
-|-------|-------|----------|
-| Active Directory Design | ⭐⭐⭐⭐⭐ | Labs 01, 06 |
-| Group Policy Objects | ⭐⭐⭐⭐⭐ | Labs 03, 07 |
-| NTFS / RBAC Permissions | ⭐⭐⭐⭐⭐ | Lab 02 |
-| WSUS / Patch Management | ⭐⭐⭐⭐ | Lab 04 |
-| Disaster Recovery | ⭐⭐⭐⭐⭐ | Lab 05 |
-| Security Hardening (MSCT) | ⭐⭐⭐⭐ | Lab 07 |
-| Windows Server Administration | ⭐⭐⭐⭐⭐ | All labs |
-| VMware vSphere | ⭐⭐⭐⭐ | All labs |
+| Skill | Evidence |
+|-------|----------|
+| Active Directory Design | Labs 01, 06 |
+| Group Policy Objects  | Labs 03, 07 |
+| NTFS / RBAC Permissions  | Lab 02 |
+| WSUS / Patch Management  | Lab 04 |
+| Disaster Recovery  | Lab 05 |
+| Security Hardening (MSCT)  | Lab 07 |
+| Windows Server Administration  | All labs |
+| VMware vSphere  | All labs |
 
 ---
 
@@ -119,9 +119,10 @@ All labs were built on an isolated virtual network (`10.172.136.0/24`) in VMware
 ## 📬 Contact
 
 **Oje Opeoluwa Hezekiah**
-- 📧 ooje7862@conestogac.on.ca
-- 🎓 Conestoga College — Information Technology
+- 📧 opeoluwaoje1@gmail.com | [Linkeldn](www.linkedin.com/in/opeoluwaoje)
+- 🎓 Conestoga College
 - 📍 Waterloo, Ontario, Canada
+  
 
 ---
 
