@@ -119,7 +119,7 @@ All labs were built on an isolated virtual network (`10.172.136.0/24`) in VMware
 ## 📬 Contact
 
 **Oje Opeoluwa Hezekiah**
-- 📧 opeoluwaoje1@gmail.com | [Linkeldn](www.linkedin.com/in/opeoluwaoje)
+- 📧 opeoluwaoje1@gmail.com | [Linkedln](www.linkedin.com/in/opeoluwaoje)
 - 🎓 Conestoga College
 - 📍 Waterloo, Ontario, Canada
   
