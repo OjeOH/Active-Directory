@@ -1,6 +1,6 @@
-# 02 — File System Permissions & NTFS Security
+# File System Permissions & NTFS Security
 
-> *Lab 2 (Part A) · INFO 8461 · Windows Infrastructure and Security*
+> * Windows Infrastructure and Security*
 
 ---
 
