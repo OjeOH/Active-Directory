@@ -1,7 +1,7 @@
-# 06 — Capstone: Enterprise Active Directory Deployment
+#  Capstone: Enterprise Active Directory Deployment
 
-> *Final Group Project · INFO 8461 · Windows Infrastructure and Security*
-> *Team: Ragi Rajendran · Opeoluwa Oje · Mcsam Oludumila · Ranjan Dulal*
+> * Windows Infrastructure and Security*
+> 
 
 ---
 
@@ -108,8 +108,8 @@ Two project teams were created, each drawing from the role groups:
 
 | Group | Members |
 |-------|---------|
-| **8917862-Android Project** | devuser1, devuser2 (Developers) · sysuser1 (Integrator) · archuser1 (Architect) · datauser1 (DB Analyst) |
-| **8917862-iOS Project** | devuser3, devuser4 (Developers) · sysuser2 (Integrator) · archuser1 (Architect) · datauser1 (DB Analyst) |
+| **Android Project** | devuser1, devuser2 (Developers) · sysuser1 (Integrator) · archuser1 (Architect) · datauser1 (DB Analyst) |
+| **iOS Project** | devuser3, devuser4 (Developers) · sysuser2 (Integrator) · archuser1 (Architect) · datauser1 (DB Analyst) |
 
 Note: `archuser1` and `datauser1` are in **both** project groups — reflecting the business reality that senior technical roles (System Architect, Database Analyst) support multiple projects simultaneously.
 
