@@ -1,12 +1,12 @@
-# 01 — Active Directory Foundations
+# Active Directory Foundations
 
-> *Lab 1 · INFO 8461 · Windows Infrastructure and Security*
+> * Windows Infrastructure and Security*
 
 ---
 
 ## 🎯 The Mission
 
-Every enterprise Windows environment begins with one critical decision: **setting up the Domain Controller**. This lab was my first hands-on encounter with that foundational task — building a working Active Directory domain from a blank Windows Server 2019 VM, then expanding it by joining member servers.
+Every enterprise Windows environment begins with one critical decision: **setting up the Domain Controller**. This lab depicts the first process with that foundational task, building a working Active Directory domain from a blank Windows Server 2019 VM, then expanding it by joining member servers.
 
 Think of this as laying the concrete slab that every other lab in this portfolio stands on.
 
