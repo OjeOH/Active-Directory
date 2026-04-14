@@ -2,7 +2,7 @@
 
 > **Oje Opeoluwa Hezekiah** — Windows Systems Engineer | Active Directory | Security Hardening | Enterprise Infrastructure
 >
-> *INFO 8461 – Windows Infrastructure and Security · Conestoga College · Winter 2024*
+> * Windows Infrastructure and Security *
 
 ---
 
