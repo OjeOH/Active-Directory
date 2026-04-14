@@ -1,4 +1,4 @@
-# 07 — Security Hardening Exam: Microsoft Security Compliance Toolkit
+# Security Hardening: Microsoft Security Compliance Toolkit
 
 > *Final Exam · INFO 8461 · Windows Infrastructure and Security*
 > *Scenario: Senior Windows Endpoint Security Engineer — Major Canadian Bank*
