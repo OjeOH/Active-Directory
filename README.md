@@ -26,7 +26,6 @@ If you're an employer, hiring manager, or fellow engineer — **welcome**. This 
 | [04](./04-wsus-patch-management/) | **WSUS Patch Management** | WSUS installation, computer groups, update approvals, IIS integration |
 | [05](./05-ad-backup-and-recovery/) | **AD Backup & Authoritative Restore** | System state backup, safe mode, ntdsutil, OU recovery |
 | [06](./06-capstone-enterprise-project/) | **Capstone: Enterprise AD Deployment** | End-to-end multi-VM domain, role groups, project-scoped permissions |
-| [07](./07-security-hardening-exam/) | **Security Hardening Exam** | Microsoft MSCT toolkit, CIS-aligned GPOs, password policy, endpoint hardening |
 
 ---
 
@@ -119,7 +118,7 @@ All labs were built on an isolated virtual network (`10.172.136.0/24`) in VMware
 ## 📬 Contact
 
 **Oje Opeoluwa Hezekiah**
-- 📧 opeoluwaoje1@gmail.com | [Linkedln](www.linkedin.com/in/opeoluwaoje)
+- 📧 opeoluwaoje1@gmail.com | [Linkedln](https://www.linkedin.com/in/opeoluwaoje/)
 - 🎓 Conestoga College
 - 📍 Waterloo, Ontario, Canada
   
